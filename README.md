@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joelprz92
-- 👀 I’m interested in SEO, Web development
-- 🌱 I’m currently learning Web / Software Development
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in SEO, Code, Software & Hardware
+- 🌱 I’m Software Developer
+- 💞️ I’m looking to collaborate on big projects
 - 📫 How to reach me ...
 
 <!---
